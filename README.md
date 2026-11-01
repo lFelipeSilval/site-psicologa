@@ -1,4 +1,4 @@
-# 🌿 Carla Saporques | Psicologia Clínica
+# 🌿 Carla Sporques | Psicologia Clínica
 
 Landing page desenvolvida para apresentar os serviços de uma profissional de psicologia clínica, proporcionando aos visitantes uma experiência visual agradável, moderna e acolhedora.
 
